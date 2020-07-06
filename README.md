@@ -1,3 +1,6 @@
+This repository was migrated and might be deleted in the future.
+Please refer to https://github.com/Shidacea/Shidacea for the new repository.
+
 # Shidacea 2D Game Engine
 
 ![BuildUbuntu](https://github.com/Hadeweka/Shidacea/workflows/BuildUbuntu/badge.svg)
